@@ -1,0 +1,24 @@
+<html>
+<head>
+    <style>
+	.pizza {
+	    color: red;
+	}
+	#lonely {
+	    color: blue;
+	}
+	body {
+	    border-style: solid;
+	    border-color: red;
+	    border-width: medium;
+	    background-image: url("https://s-media-cache-ak0.pinimg.com/236x/44/02/6c/44026c145c2795198c95fca12281b8f8.jpg");
+	    background-repeat: repeat;
+	    background-position: right;
+	    margin: 200px;
+    </style>
+</head>
+<body>
+   <h1> CUTERPIEEEEEEEEEEEEEEEEEES!</h1>
+</body>
+
+</html>
