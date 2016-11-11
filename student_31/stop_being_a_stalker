@@ -1,0 +1,51 @@
+<html>
+<head>
+<style>
+.stalker {
+color: red;
+}
+.stalkerr {
+color: blue;
+}
+#lel {
+color: 	#FFA500;
+}
+body {
+border-style: solid;
+border-color: yellow;
+border-width: medium;
+background-image: url("http://inthesetimes.com/images/articles/trump_flicker_face_yess.jpg");
+background-position: right:
+margin: 200px;
+
+}
+
+h1 {
+color: 	#800000;
+}
+.hi {
+color: red;
+}
+.hai {
+color: blue;
+}
+#loner {
+color: #FFA500;
+}
+#water {
+color: white;
+}
+</style>
+</head>
+<body>
+<div class="stalker">More stalkers reading dyis</div>
+<div class="stalkerr">wow so many of them</div>
+<div id="lel"> huh</div>
+<div id="water"><marquee behavior= "scroll" direction= "down"> hey Armenian flag </marquee></div>
+<h1> stop readin this </h1>
+<div class="hi">0000000000000</div>
+<div class="hai">0000000000000</div>
+<div id="loner">0000000000000</div>
+</body>
+
+</html>
