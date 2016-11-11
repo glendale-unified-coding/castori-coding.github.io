@@ -1,0 +1,41 @@
+<head>
+		<title> My Website </title>
+		<style>
+			body{
+		
+				color: white;
+				text-align: center;
+				font-size: 18px;
+				border-style: solid;
+				border-color: white;
+				border-width: medium;
+				background-image: url("http://www.space.com/images/i/000/058/162/original/star-cluster-terzan-5.jpg?interpolation=lanczos-none&downsize=*:1400");
+				background-repeat: repeat;
+				background-position: center;
+				margin: 200px
+			} 
+			
+			.pizza {
+				color: #8da2c4;
+			}
+
+			#lonely {
+				color: #8da2c4
+
+			}
+body {
+				border-style: 
+		</style>
+	</head>
+
+	<body>
+		<h1> This is a header </h1>
+		This is where the main stuff goes.
+
+		<div class="pizza">I'm a div tag!</div>
+		<div class="pizza">Me too!</div>
+		<div class="lonely"> So am I!</div>
+		
+	</body>
+
+</html>
