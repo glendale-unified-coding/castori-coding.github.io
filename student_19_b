@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <style>
+      .pizza {
+         color: #24635d;
+      }
+      #lonely {
+         color: #1f5e6e;
+      }
+      body {
+          border-style: solid;
+          border-color: #245463;
+          border-width: medium;
+          background-image: url("http://summerkeys.com/wp-content/uploads/2011/11/Viola-600x400.png");
+          background-repeat: repeat;
+          background-position: right;
+          margin: 200px;
+      }
+    </style>
+  </head>
+
+    <body>
+      <div class="pizza">I'm a div tag!</div>
+      <div class="pizza">Same!</div>
+      <div id="lonely">How about me></div>
+    </body>
+</html>
