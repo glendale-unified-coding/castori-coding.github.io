@@ -1,0 +1,40 @@
+<html>
+
+<head>
+
+	<style>
+
+		.pizza {
+			color: red;
+		}
+
+		.broccoli {
+			color: green;
+		}
+
+		#lonely {
+			color: blue
+		}
+
+		body {
+
+			background-image: url("https://i.ytimg.com/vi/Cfw_H18ynCM/maxresdefault.jpg");
+			margin: 200px;
+		}
+
+	</style>
+
+</head>
+
+<body>
+
+	<div class="pizza">hey</div>
+	<div id="lonely">hey</div>
+	<div id="lonely">did you know that im fabulous?</div>
+	<div class="pizza">not as fabulous as me</div>
+	<div class="pizza"> </div>
+	<marquee class="pizza">HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHUUUUUUUUUUUUUUUUUUUUUUUUUUHHHHHHHHHHHHHHHHHHHHHHHHUUUUUUUUUUUUUUUUUUUUUUUUHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</marquee>
+
+</body>
+
+</html>
