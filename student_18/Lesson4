@@ -1,0 +1,24 @@
+<html>
+<head>
+	<style>
+		.pizza {
+			color: red ;
+
+ 		}
+		#lonely {
+			color: green
+		}
+		body {
+			border-style: solid;
+			border-color: red;
+			border-width: medium;
+			background-image: url("http://pm1.narvii.com/5770/5773d5572c20909f6a8fe883a02c4a247adf6fb7_hq.jpg")
+			margin: 201px;
+
+
+	</style>
+</head>
+<body>
+
+
+</body>  
