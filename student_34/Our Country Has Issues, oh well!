@@ -1,12 +1,6 @@
 <html>
-	<head>
-		<style>
-		body {
-			background-image: url("https://i.ytimg.com/vi/Gj3dX0JdHNw/hqdefault.jpg");
-			background-repeat: repeat;
-			background-position: right;
-			margin: 200px;
-			}
+	<head> </head>
+
 	<body>
 
 		<div class= "divider">
@@ -15,5 +9,5 @@
 
 	</body>
 		</style>
-	 </head>
+		
 </html>
