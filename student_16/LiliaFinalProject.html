@@ -1,3 +1,4 @@
+
 <html>
 
 <head>
@@ -23,6 +24,21 @@
  	.color{ 
  	color: #9c1f8b; 
  	} 
+	  
+	
+
+        ol { counter-reset: item; }
+        ol li { display: block; }
+        ol li:before {
+            content: counter(item) ". ";
+            counter-increment: item;
+            color: #012f7a;
+        }
+
+        .indigotext {
+                  color: #8e1973;
+        }
+         
         
  	</style> 
 
@@ -43,7 +59,14 @@
 
 <ol>
   <li> Dogs are left and right handed just like us </li>
+	<li> Dogs' personalities often reflect upon their owners </li>
+        <li> Scientists have discovered that dogs can dream just like humans </li>
+   <li> Humans that spend time with dogs are more likely to have a reduced risk of depression than others </li>
 
+  <img src = "https://thumbs.dreamstime.com/t/horizontal-banner-cute-puppies-kittens-row-long-sized-to-fit-popular-social-media-cover-placeholder-71640402.jpg">
+
+ <h2 class="indigotext"> The pinpoints below will help you figure out if you are ready to get a dog or not. </h2>
+ 
 
 
 </body>
