@@ -1,6 +1,15 @@
 <html>
 <head>
 <style>
+     #transition {
+			width: 150px;
+			height: 50px;
+			background: teal;
+			transition: height 2s;
+			}
+			#transition: hover {
+				height: 300px;
+				}
      .pizza {
        color:red;
       }
@@ -13,7 +22,7 @@
          border-width: medium;
          background-image: url("http://plusquotes.com/images/quotes-img/cool_cat.jpg");
          background-repeat: repeat;
-         background-postion: right;
+         background-position: right;
          margin: 200px;
 }
 </style>
@@ -22,6 +31,8 @@
       <div class="pizza">i'm a div tag!</div>
       <div class="pizza">Same!</div>
       <div id="lonely">How about me</div>
+      <div id="transition"> Transition  time! </div>
+     
 </body>
 
 </html>
