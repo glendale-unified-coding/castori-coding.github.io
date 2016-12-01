@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Emma's Cooking Creations</title>
+        <meta charset="utf-8">
+        <style>
+        
+        body { 
+            background-color:rgb(207, 178, 222);
+        }
+        
+        .title {
+            background-color:rgb(245, 240, 245);
+            border:10px dashed indigo;
+        }
+        
+        h1 { 
+            color:Crimson;
+            text-align:center;
+            font-family:cursive;
+        }
+        
+        h3 {
+            color:rgb(141, 53, 212);
+            text-align:center;
+            font-style:italic;
+            font-size:22px;
+            font-family:fantasy;
+        }
+        
+        h2 {
+            color:rgb(125, 0, 235);
+            font-family:cursive;
+        }
+        
+        p {
+            font-family:sans-serif;
+        }
+        
+        li{ 
+            color:Aquamarine;
+        }
+        
+        table{
+            color:LightCoral;
+        }
+        
+        #contents { 
+            color:rgb(125, 0, 235);
+        }
+        
+        #sugar {
+            color:rgb(111, 0, 255);
+        }
+        
+        #chocolate {
+            color:rgb(10, 108, 173);
+        }
+        
+        #ginger {
+            color:rgb(145, 13, 86);
+        }
+        
+        #cookiePlate {
+            position:relative;
+            left:138px;
+        }
+        
+        a {
+            color:rgb(207, 19, 204);
+        }
+
+        </style>
+    </head>
+    <body>
+    
+        <div class="title">
+            <h1>Emma's Cooking Creations</h1>
+            <img id="cookiePlate" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Christmas_Cookies_Plateful.JPG" width="336" height="203" alt="A plate full of cookies">
+            <h3> A collection of quick recipes<br> By Emma G.</h3>
+        </div>
+            
+        <h2 id="contents">Contents:</h2>
+        
+        <ol>
+            <li><a href="#sugar-cookie">Sugar Cookies</a></li>
+            <li><a href="#brownie"> Brownies</a> </li>
+            <li><a href="#ginger-snap"> Ginger Snaps</a></li>
+        </ol>
+        
+        <h2 id="sugar-cookie">Sugar Cookies</h2>
+        <img src="http://images.media-allrecipes.com/userphotos/720x405/1754462.jpg" width="200" alt="Two sugar cookies">
+        <ul>
+            <li>Time: Approximately 25 mins</li>
+            <li>Amount: 2 dozen cookies</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td> Flour </td>
+                <td> 2 3/4 cups </td>
+            </tr>
+            <tr>
+                <td> Sugar </td>
+                <td> 1 1/2 cups </td>
+            </tr>
+            <tr>
+                <td> Baking Soda </td>
+                <td>  1 tsp</td>
+            </tr>
+            <tr>
+                <td> Baking Powder </td>
+                <td>  1/2 tsp</td>
+            </tr>
+            <tr>
+                <td> Egg </td>
+                <td>  1</td>
+            </tr>
+            <tr>
+                <td>  Vanilla Extract</td>
+                <td> 1 tsp </td>
+            </tr>
+            <tr>
+                <td>  Butter</td>
+                <td>  1 cup</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p id="sugar"><strong>Step 1:</strong> First preheat the oven to 375 degrees F. Stir together flour, baking powder and baking soda and set it aside.
+<br>
+     
+      <strong>Step 2:</strong> Next, cream the butter and sugar together in a large bowl until smooth. Beat egg and vanilla extract into the mix. Gradually blend in dry ingredients. Roll teaspoonfuls into round balls and place on an ungreased cookie sheets.
+     <br>
+     <strong>Step 3:</strong> Bake for 8-10 minutes or until golden brown. Let it sit for 2 minutes before cooling on rack.</p>
+
+    <h2 id="brownie">  Brownies</h2>
+     <img src="http://images.media-allrecipes.com/userphotos/250x250/487007.jpg" width="200" alt="A couple of brownies on a plain plate">
+     <ul>
+         <li>Time: About 40 mins </li>
+         <li> Amount: Roughly 1 dozen</li>
+     </ul>
+     
+     <table>
+         <thead>
+             <tr>
+                 <th>Ingredients
+                 <th>Quantity
+             </tr>
+         </thead>
+         <tbody>
+             <tr>
+                 <td> Walnut Halves
+                 <td> 1/2 cup
+             </tr>
+              <tr>
+                 <td> Sugar </td>
+                 <td> 2 cups
+             </tr>
+              <tr>
+                 <td> Butter
+                 <td> 1 cup
+             </tr>
+              <tr>
+                 <td> Cocoa Powder
+                 <td> 1/2 cup
+             </tr>
+              <tr>
+                 <td> Vanilla Extract
+                 <td> 1 tsp
+             </tr>
+              <tr>
+                 <td> Eggs
+                 <td> 4
+             </tr>
+              <tr>
+                 <td> Flour
+                 <td> 1 cup
+             </tr>
+              <tr>
+                 <td> Baking Powder
+                 <td> 1/2 tsp
+             </tr>
+              <tr>
+                 <td> Salt
+                 <td> 1/2 tsp
+             </tr>
+         </tbody>
+     </table>
+    
+        <p id="chocolate"><strong> Step 1: </strong> 
+            Firstly, melt the butter and mix in all the ingredients as in the order shown in 'Ingredients' (except for the walnut shells, which go in last).
+        <br>
+        
+        <strong> Step 2:</strong>
+        Bake in the oven for 350 degrees F for 20 - 30 minutes in a 9 x 13 inch greased pan. Leave to cool.
+        </p>
+        
+        <h2 id= "ginger-snap"> Ginger Snaps</h2>
+        <img src="http://images.media-allrecipes.com/userphotos/250x250/532567.jpg" width="200" alt="An array of gingersnaps with icing">
+        <ul>
+            <li> Time: 20 mins
+            <li> Amount: 1- 1 1/2 dozens
+        </ul>
+    
+    <table>
+        <thead>
+            <tr>
+                <th> Ingredients
+                <th> Quantity
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> Sugar
+                <td> 1 cup
+            </tr>
+              <tr>
+                <td> Egg
+                <td> 1
+            </tr>
+              <tr>
+                <td> Salt
+                <td> 1/4 tsp
+            </tr>
+              <tr>
+                <td> Softened Butter
+                <td> 3/4 cups
+            </tr>
+              <tr>
+                <td> Flour
+                <td> 2 cups
+            </tr>
+              <tr>
+                <td> Baking Soda
+                <td> 1/4 tsp
+            </tr>
+              <tr>
+                <td> Ground Cloves
+                <td> 1 tsp
+            </tr>
+              <tr>
+                <td> Ground Ginger
+                <td> 1 tsp
+            </tr>
+              <tr>
+                <td> Ground Cinnamon
+                <td> 1 tsp
+            </tr>
+        </tbody>
+    </table>
+    
+    <p id="ginger"><strong> Step 1:</strong>
+        Preheat oven to 350 degrees F
+  <br>
+    
+   <strong> Step 2:</strong>
+        Cream the sugar, egg, salt and butter together until smooth. Add flour, baking soda and spices. Mix well. Roll teaspoonfuls of dough into balls and roll them in white sugar. 
+   <br>
+    
+    <strong> Step 3:</strong>
+        Bake in oven at 350 degrees F for 6 minutes.
+    </p>
+    
+    <h2 id="contents"> Enjoy!</h2>
+    
+        <p><em>Source: <a href="http://allrecipes.com/recipe/9870/easy-sugar-cookies/">All recipes.com</a> <br> Recipe Names:<a href="http://allrecipes.com/recipe/9870/easy-sugar-cookies/"> Easy Sugar Cookies </a>;<a href="http://allrecipes.com/recipe/9599/quick-and-easy-brownies/"> Quick and Easy Brownies</a>;<a href="http://allrecipes.com/recipe/10737/irish-ginger-snaps/"> Irish Ginger Snaps</a> </em></p>
+        
+    </body>
+</html>
+
+
