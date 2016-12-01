@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title> SqueerkatHub </title>
+		<style> 
+			body {
+				background-color:CadetBlue;
+				border-style:solid;
+				border-width:30px;
+				border-color:Aquamarine;
+				margin-left:;
+			}
+			
+			body p {
+				margin-left:20px;
+				font-family:sans-serif;
+				margin-right:20px;
+				font-size:20px;
+			}
+			
+			#titleSqueerkat {
+				margin-left:40px;
+				font-size:50px;
+				color:MidnightBlue;
+				font-family:sans-serif;
+			}
+			#titleHub {
+				color:white;
+				font-family:sans-serif;
+				font-size:39px;
+			}
+			#titleLogo {
+				margin-left:40px;
+				color:black;
+				font-style:italic;
+				font-size:20px;
+			}
+			.bold {
+			font-style:bold;
+			}
+			
+			#titleBox {
+				background-color:LightBlue;
+				margin-left:20px;
+				margin-right:20px;
+				margin-top:20px;
+			}
+			
+			#welcomeGreeting {
+				margin-left:15px;
+				margin-top:25px;
+				font-size:40px;
+				font-family:sans-serif;
+			}
+			
+			.secHeader {
+				font-size:32px;
+				font-family:sans-serif;
+				margin-top:50px;
+				margin-left:15px;
+				color:MidnightBlue;
+			}
+			
+			marquee {
+				color:white;
+				font-style:bold;
+				font-size:25px;
+				font-family:sans-serif;
+			}
+			
+			#contents {
+				background-color:LightBlue;
+				margin-left:140px;
+				margin-right:140px;
+			}
+			
+			#contentsHead {
+				text-align:center;
+				font-size:29px;
+				font-family:cursive;
+				color:Indigo;
+				font-style:italic;
+			}
+			
+			#contentsList {
+				font-size:22px;
+				color:MidnightBlue;
+				font-family:sans-serif;
+			}
+			img {
+				border-style:ridge;
+				border-color:SaddleBrown;
+				border-width:10px;
+				margin-left:20px;
+			}
+			form {
+				margin-left:20px;
+			}
+		</style>
+	</head>
+	
+	<body> 
+		<div id="titleBox"> 
+			<br>
+			<h1> <span id="titleSqueerkat">Squeerkat</span><span id="titleHub">hub</span></h1>
+			<br>
+			<h3 id = "titleLogo"> "A homepage for squids and meerkats around the globe,"</h3>
+			<br>
+		</div>
+		
+			<div id="welcomeGreeting"> </div>
+			<br>
+			<h2 class="secHeader">Getting Started...</h2>
+			<br>
+			<p>Type your name in the box below and hit <strong>Submit</strong>, and a personal welcome will automatically generate for you! (Yay, people care about you!)</p>
+			<br>
+			
+			<form id="welcomeForm"> 
+				<input name="submitYourName" type="text" id="welcomeValue">
+				<input type="button" name="submitName" value="Submit" onclick= "submitIt(this.form)"><br><br>
+			</form>
+			
+			<br>
+			<marquee> ~ Below lies squids and meerkats galore ~</marquee>
+			<br>
+			
+			<div id="contents">
+				<h2 id="contentsHead"> Contents:</h2>
+				<ul id="contentsList">
+					<li> <a href="#aboutUs"> What is SqueerkatHub?</a></li>
+					<li> <a href="#picGallery">Picture Gallery!</a> </li>
+					<li> <a href="#videos"> Videos</a> </li>
+					<li> </li>
+					
+				</ul>
+			</div>
+			
+			<br>
+			<h2 class="secHeader" id="aboutUs"> What is SqueerkatHub?</h2>
+			<p> SqueerkatHub is essentially a place for squids and meerkats, wherever they are, to
+			have the oppurtunity to watch videos and look at pictures of themselves. If 
+			humans can do that all the time, why should two randomly picked species of animal
+			be denied that right? (Although, they probably don't have computers, so...)</p>
+			
+			<br> <br>
+			<h2 class="secHeader" id="picGallery">Picture Gallery</h2>
+			<p> Welcome to the Squeerkat Hub Picture Gallery! Click on one of the 
+			<strong>numbered buttons</strong> to shuffle through the pictures in our gallery!
+			</p>
+			<img id="photos" src="https://s-media-cache-ak0.pinimg.com/564x/48/c6/e0/48c6e0b1a7c1113f7be213ee6377a778.jpg"
+           alt="It's a picture of meerkats/squids" width="300px"> </img>
+			<form> 
+				<input type="button" name="pic1" value="1" onclick = "picSwitch1(this.form)">
+				<input type="button" name="pic2" value="2" onclick = "picSwitch2(this.form)">
+				<input type="button" name="pic3" value="3" onclick = "picSwitch3(this.form)">
+				<input type="button" name="pic4" value="4" onclick = "picSwitch4(this.form)">
+
+
+			</form>
+			<br> <br>
+			<h2 class="secHeader" id="videos"> Videos </h2>
+			
+			
+		<script> 
+			var picArray = ["http://www.cutestpaw.com/wp-content/uploads/2016/02/I-like-my-coffee-cute-like-my-meerkat..jpg",
+			"https://s-media-cache-ak0.pinimg.com/236x/35/b6/5d/35b65d0a7e234480918f7f08ae332474.jpg",
+			"http://www.aquariumofpacific.org/images/olc/grimpo-2_med.jpg", 
+			"https://s-media-cache-ak0.pinimg.com/564x/48/c6/e0/48c6e0b1a7c1113f7be213ee6377a778.jpg"];
+			var nameAlert = "Please type in a name!";
+			var yourName;
+			var welcomeDiv = document.getElementById("welcomeGreeting");
+			function submitIt (form){
+				yourName = welcomeForm.submitYourName.value;
+				welcomeDiv.innerHTML = "Welcome, " + yourName;
+				if (yourName === ""){
+					welcomeDiv.innerHTML = "Type in a name to get a greeting!"
+					alert(nameAlert);
+				}
+			};
+			function picSwitch1 (form) {
+				photos.src = picArray[0];
+				photos.width.innerHTML = "300px";
+			}
+			function picSwitch2 (form) {
+				photos.src = picArray[1];
+				photos.width.innerHTML = "300px";
+			}
+			function picSwitch3 (form) {
+				photos.src = picArray[2];
+				photos.width.innerHTML = "300px";
+			}
+			function picSwitch4 (form) {
+				photos.src = picArray[3];
+				photos.width.innerHTML = "300px";
+			}
+		</script>
+	</body>
+</html>
+
+
