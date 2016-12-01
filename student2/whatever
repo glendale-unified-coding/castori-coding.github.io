@@ -3,16 +3,17 @@
     <style>
       #transition {
         width:150px;
-        height: 50px;
+        height: 60px;
         background: teal;
         transition: height 2s;
        }
        #transition:hover {
         height: 300px;
+        <h1> hi. i hope ur disappointed. </h1>
        }
     </style>
   </head>
   <body>
-      <div id="pi"> Hover if u want 2 kill urself cause ppl cant fly or hover </div>
+      <div id="transition"> Hover if u want 2 kill urself cause ppl cant fly or hover </div>
   </body>
 </html>
