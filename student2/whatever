@@ -9,7 +9,6 @@
        }
        #transition:hover {
         height: 300px;
-        <div id="eh"> hi. i hope ur disappointed. </div>
        }
     </style>
   </head>
