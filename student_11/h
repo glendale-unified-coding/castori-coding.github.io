@@ -13,7 +13,7 @@
          </style>
      </head>
      <body>
-         <div id="transition".transition time!</div>
+         <div id="transition">transition time!</div>
      </body>
  </html>
  
