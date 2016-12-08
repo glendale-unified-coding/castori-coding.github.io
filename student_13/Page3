@@ -1,0 +1,58 @@
+<head>
+
+    <title>FC BARCELONA FAN PAGE</title>
+    <img class="head" src="http://www.pixelstalk.net/wp-content/uploads/2016/06/FC-barcelona-logo-desktop-wallpaper-images-620x349.jpg">
+    <style>
+    html{
+    background-color: firebrick;
+}
+.head {
+    width: 1300px;
+    height: 350px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    border: 7px solid;
+}	
+marquee{
+    font-family: Broadway, serif;
+    font-size: 35px;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+.bests{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 30px;
+    border: 5px solid;
+}
+img{
+  width: 400px;
+    height: 300px;
+    position: relative;
+    left: 30px;
+    border: 5px solid;
+}
+</style>
+<body>
+    <br>
+<br>
+<br>
+    <marquee>FC BARCELONA  Més que un club!</marquee>
+    <br>
+<img class="bests" src="https://1.bp.blogspot.com/-l4gJf4f49Kk/V0crPJ2B5xI/AAAAAAAA4P0/YJIogEoaVCM0voxrcxx4JpJRemCqYLuJwCLcB/s1600/barcelona-16-17-home-kit-7.jpg">
+<img src="https://pro-cdn-public-fcb.everincloud.com/20157/0/document_thumbnail/20197/177/141/237/32345521/1.0-11/32345521.jpg?t=1474889312000">
+<img src="http://www.sportsemotions.com/media/tridente_lui_ney.JPG">
+<img src="https://s-media-cache-ak0.pinimg.com/originals/c8/de/01/c8de01b030784fc426c4c03324a972bd.jpg">
+<img src="http://sportige.com/wp-content/uploads/2013/03/6-2.jpg">
+<img src="https://i.ytimg.com/vi/0ragUHj22u4/maxresdefault.jpg">
+<img src="http://i.dailymail.co.uk/i/pix/2015/06/06/22/1433626738675_lc_galleryImage_Football_FC_Barcelona_v_J.JPG">
+<img src="http://4.bp.blogspot.com/-Wi6gPlLWHiU/TubHTlbTyMI/AAAAAAAADC8/eAsTFglHB3c/s1600/El+Classico+-+Barcelona+VS+Real+Madrid+-+Top+10+Fantastic+Moment+ball.jpg">
+<img src="http://a.fssta.com/content/dam/fsdigital/fscom/Soccer/images/2016/02/28/022816-Soccer-Barcelona-Lionel-Messi-pi-ssm.vresize.1200.675.high.98.jpg">
+<ul>
+<li><a class="Trophies" href="file:///C:/Users/EDMON/Desktop/page%202,%20trophies.html">Trophies</a></li>
+<li><a class="Gallery"  href="file:///C:/Users/EDMON/Desktop/page%203,%20gallery.html">Gallery</a></li>
+<ul>
+</html>
