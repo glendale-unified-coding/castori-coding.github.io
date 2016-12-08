@@ -1,0 +1,44 @@
+html{
+    background-color: firebrick;
+}
+.head {
+    width: 1300px;
+    height: 350px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    border: 7px solid;
+}
+marquee{
+    font-family: Broadway, serif;
+    font-size: 35px;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+.body{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 30px;
+    border: 5px solid;
+}
+h3{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+    position: relative;
+    left: 60px;
+}
+p{
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    color: white;
+    text-align: right;
+    position: relative;
+    left: 450px;
+    bottom: 350px;
+    border: 5px, solid;
+}
