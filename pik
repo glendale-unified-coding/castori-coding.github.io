@@ -1,0 +1,34 @@
+<html>
+<head>
+<title> Plz dont leave.. </title>
+<style>
+body {
+background-color:red;
+color:blue;
+text-align:center;
+font-stlye:italic;
+font-size: 16px;
+}
+</style>
+</head>
+<body>
+Hi
+<h1> I love ?</h1>
+<h2>So..</h2>
+<h8>coral beoplony</h8>
+<img src="https://img.ifcdn.com/images/977e8bfbd522bb1d4627867769c83d276d9159f3a64a09d932d3117f83ed76fd_1.jpg">
+<marquee> papi </marquee>
+Favorite Foods
+<ul>
+<li>Pizza </li>
+<li> Shrimp</li>
+<li> Food</li>
+</ul>
+Favorite Fruit
+<ol>
+<li> Peach</li>
+<li>Tangerine</li>
+<li> Orange</li>
+</ol>
+</body>
+</html>
