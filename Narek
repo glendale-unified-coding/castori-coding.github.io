@@ -1,0 +1,38 @@
+<html>	
+<head>
+<title> My first wesite</title>
+<style>
+body{
+background-color:blue;
+color:green;
+text-align:center;
+font-style:italic;
+font-size:16px;
+border-style:solid;
+}
+</style>
+</head>
+<body>
+Hello World This is my first Website
+<h1>I love coding</h1>
+<h2>A lot</h2>
+<h3>Qaqs kereq</h3>
+<h4>Hastat</h4>
+<p>I know I am interesting</p><br>
+<img src= "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_(crest).svg/1010px-FC_Barcelona_(crest).svg.png"
+<a href="www.google.com"> Google IT</a>
+<marquee>whee I'm a marquee!</marquee>
+Favorite foods:
+<ul>
+<li>Pizza</li>
+<li>kabab</li>
+<li>Khorovac</li>
+</ul>
+Favorite Fruit:
+<ol>
+<li>Strawberries</li>
+<li>Syuziiiiiiii</li>
+<li>Syuzii</li>
+</ol>
+</body>
+</html>
