@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>my first website</title>
+<style>
+body {
+ background-color:black;
+
+</style>
+</head>
+<body>
+	Hello mates this is my first website.
+	<h1>I am the king</h1>
+	<h2>Of the world</h2>
+	<h3>And the</h3>
+	<h4> boss</h4<
+	<p>lol</p><br>
+	<img src ="https://s-media-cache-ak0.pinimg.com/564x/22/d2/11/22d211eaa3b23d09da58daf83f3b48d7.jpg">
+	<a href="www.google.com">
+	google it </a>
+	<marquee>whee im a maquee!</marquee>
+	favorit foods:
+	<ul>
+<li>burgers</li>
+<li>tocos</li>
+	</ul>	
+	favorit fruit
+	<ol>
+<li>apple</li>
+<li>watermalon</li>
+	</ol>
+
+</body>
+</html>
