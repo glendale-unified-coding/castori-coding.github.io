@@ -1,0 +1,11 @@
+<html>
+ <head>
+  <title>Pawsome Pets</title>
+ </head>
+   <body>
+    <h1>Pawsome Pets</h1>
+     Welcome to Pawsome Pets!!!
+     This is the home page. Here you will learn how to adopt a pet.
+      <marquee>Let's get started!!!</marquee>
+   </body>
+</html>
