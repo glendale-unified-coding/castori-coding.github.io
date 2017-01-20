@@ -1,6 +1,17 @@
 <html>
  <head>
   <title>Pawsome Pets</title>
+    <style>
+body {
+background-color:#00faff
+;
+color:black;
+text-align:center;
+font-style:ayres serif;
+font-size:16px;
+boeder-style:solid;
+}
+</style>
  </head>
    <body>
     <h1>Pawsome Pets</h1>
