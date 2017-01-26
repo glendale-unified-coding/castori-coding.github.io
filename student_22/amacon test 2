@@ -1,10 +1,21 @@
 <html>
 
-<title> Amacon.com! </title>
-
-
-
-
+<head>
+</head>
+<body>
+<div class="header">
+    <a href="/">
+       <img src="  ">
+    </a>
+    <h1>The coding school</h1>
+    <ul class="nav">
+       <li><a href="index.html">Home</a></li>
+       <li><a href="blog.html">Blog</a></li>
+       <li><a href="contact.html">Contact</a></li>
+    </ul>
+</div>    
+</body>
+</html>
 
 
 
