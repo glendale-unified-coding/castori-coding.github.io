@@ -1,0 +1,18 @@
+<html>
+<head>
+</head>
+<body>
+<div class = "header">
+  <a href = "/">
+    <img src = "http://vignette3.wikia.nocookie.net/filthy-frank/images/9/9f/Ayylmao.jpg/revision/latest/zoom-crop/width/240/height/240?cb=20150916135006">
+  </a>
+  <h1>THE PINK GUY</h1>
+  <ul class = "nav">
+    <li><a href = "index.html">Home</a></li>
+    <li><a href = "about.html">About Us</a></li>
+    <li><a href = "gallery.html">Gallery</a></li>
+    <li><a href = "bontact.html">Contact Us</a></li>
+  </ul>
+</div>
+</body>
+</html>
