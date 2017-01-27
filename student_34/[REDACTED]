@@ -2,6 +2,9 @@
 <html>
 <title> [REDACTED] </title>
 <head>
+<style>
+ background-color: #2f3133p;
+</style>
 </head>
 <body>
 <div class= "header">
@@ -9,6 +12,8 @@
     <img src="https://kanbanize.com/blog/wp-content/uploads/2014/11/GitHub.jpg" />
   </a>
   <h1> The Mysteries of DR. W.D. Gaster </h1>
+  <h2> An Unofficial Fanpage for the Beautiful Game Undertale </h2>
+  <h3> By Toby Fox </h3>
   <ul class= "nav">
     <li><a href="index.html"> Home </a></li>
     <li><a href="about.html"> Information </a></li>
