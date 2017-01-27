@@ -8,6 +8,9 @@
 </head>
 <body>
 <div class= "header">
+ .header {
+  text-align: center;
+ }
   <a href="/">
     <img src="https://kanbanize.com/blog/wp-content/uploads/2014/11/GitHub.jpg" />
   </a>
