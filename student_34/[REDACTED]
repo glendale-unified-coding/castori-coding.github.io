@@ -1,0 +1,20 @@
+
+<html>
+<title> [REDACTED] </title>
+<head>
+</head>
+<body>
+<div class= "header">
+  <a href="/">
+    <img src="https://kanbanize.com/blog/wp-content/uploads/2014/11/GitHub.jpg" />
+  </a>
+  <h1> The Mysteries of DR. W.D. Gaster </h1>
+  <ul class= "nav">
+    <li><a href="index.html"> Home </a></li>
+    <li><a href="about.html"> About Us </a></li>
+    <li><a href= "gallery.html"> Gallery </a></li>
+    <li><a href= "contact.html"> Contact Us </a></li>
+  </ul>
+</div>
+</body>
+</html>
