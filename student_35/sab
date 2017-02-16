@@ -1,0 +1,40 @@
+<html>
+     <head> 
+         
+          <style> 
+              #transition { 
+               width: 150px;
+               height: 50px;
+               background: blue;
+               transition: height 2s;
+                
+               }
+               #transition:hover {
+                    height: 300px;
+               }
+               body {
+                    border-style: dotted solid double;
+                    border-color: brown;
+                    border-width: large;
+                    background-image: url("http://esq.h-cdn.co/assets/15/08/1424204090-tumblr_m4g0ddotsx1qa1w9bo1_1280.jpg");
+                    background-repeat: repeat;
+                    background-position: right;
+                    margin: 200px; 
+               }
+         
+     </style>
+</head>
+<body>
+     <div id="transition"> Welcome to Lil' Seb's fanpage!</div>
+     <div class="pizza">The Best Fanpage Around Since 2003</div>
+     <div class="pizza">Check out our tabs!</div>
+     <div id="lonely">Please love me</div>
+          <h1>One hundred percent good stuff 100%!</h1>
+     
+          <div class="divider">
+              <a href="student_22.html"> *Click here to enter the website area* </a>
+          </div>    
+
+     </body>
+
+</html>
