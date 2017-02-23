@@ -1,0 +1,86 @@
+<html>
+
+
+<head>
+    
+<link rel="stylesheet" type="text/css" href="mystyle.css"
+</head>
+
+
+<body>
+
+
+<div class="header">
+
+    
+<a href="/">
+       
+ 
+<img src="http://vignette1.wikia.nocookie.net/the-mysterious-mr-enter/images/3/38/Handsome.png/revision/latest?cb=20150208180526">
+    
+
+</a>
+    
+<h1>Sqeedwurd Weebite</h1>
+   
+ 
+<ul class="nav">
+    
+<li><a href="Shampoo.html"> Shampoo</a></li>
+    <li><a href="Memz.html" >Memz</a> </li>
+    <li><a href=Geometry Dash"> Geometry Dash</a></li>
+    <li><a href="Pokemon"> Pokemon</a> </li>
+    
+    
+
+</ul>
+
+
+</div>
+
+    <form>
+     Do you like Video Games?
+      <select name= "topic">
+      <option value="Yes"> 
+        Yes
+        </option>
+        <option value="No">
+        No
+        </option>
+        </select><br><br>
+      Full Name<br>
+      <input type="text" name="name"><br><br>
+      Favorite Video Game<br>
+      <input type="text" name="Favorite Video Game"><br><br>
+      Email<br>
+      <input type="text" name="email"><br><br>
+      Message<br>
+      <textarea name="message" rows="10" cols="30">
+      </textarea><br><br>
+      <input type="checkbox" name="subscribe" value="Subscribe">
+     Add me!<br><br>
+      <input type="submit" value="Submit">
+  </form>
+  
+
+ <style>
+        body {
+              background-color: orange;
+                }
+                
+  </style>
+
+	<ul class = "products">
+	
+
+
+    </body>
+<li class = "products">
+<div>
+ <h3> Javascript I </h3>
+  <img src = "jsi.png">
+   <p> The Javascipt I courses... </p>
+    </div>
+     </li>
+
+	</html>
