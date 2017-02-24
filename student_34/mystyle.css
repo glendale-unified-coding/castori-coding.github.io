@@ -22,8 +22,8 @@
 }
 
 .products li{
-  width: 200px;
-  min-height:200px;
+  width: 100px;
+  min-height:100px;
   border: 1px solid black;
   padding: 5px;
   list-style: none;
