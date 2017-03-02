@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="mystyle.css"</head>
+
+<body>
+
+<div class="header">
+    
+<a href="/">
+        
+<img src="http://vignette2.wikia.nocookie.net/steven-universe/images/f/f2/The_succ_of_this_side_of_the_galaxy.png/revision/latest?cb=20160827145335">
+    
+</a>
+    <h1>I use shampoo from for monkeys</h1>
+    
+<ul class="nav">
+    
+<li><a href="Shampoo.html"> Shampoo</a></li>
+    
+<li><a href="Memz.html" >Memz</a> </li>
+    
+<li><a href=Geometry Dash"> Geometry Dash</a></li>
+    
+<li><a href="Pokemon"> Pokemon </a></li>
+    
+    
+</ul>
+
+</div>
+<form>
+Do you like shampoo stuff things maybe no ok u sure jeffy idk?<br>
+        <select name="topic">
+    <option value="yes m8">
+        yes m8
+        </option>
+        <option value="NOPE I H8888 SAMPOOOOOOOOO">
+        NOPE I H8888 SAMPOOOOOOOOO
+</form>
+
+</body>
+
+</html>
