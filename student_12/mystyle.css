@@ -21,6 +21,14 @@
      display:inline;
      padding-left:5px;
 }
+
+idiv {
+    position: fixed;
+    top: 41px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
      
      
      
