@@ -2,4 +2,19 @@
 <title> Social Puppets In The Classroom </title>
 <head>
   <style>
+  body{background-color: blue;   
+  	color: #67178c;   
+   	text-align: center;   
+   	font-style: italic;   
+   	font-size: 20px;   
+   	border-style: groove;   
+   	font-family: cursive;   
+   	background-image: url("");   
+   	background-repeat: no-repeat;   
+   	background-position: right;   
+   	}   
+    </style>
+    </head>
+ <body>
+ <h1> If kids interact with puppets at an early age, they will have a greater chance of socializing </h1>
   
